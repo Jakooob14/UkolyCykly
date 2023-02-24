@@ -1,0 +1,7 @@
+C:\Users\jakub.sokol\OneDrive - Střední škola EDUCHEM, a.s\Dokumenty\Programming\C#\HowManyNumbers\HowManyNumbers\bin\Debug\HowManyNumbers.exe
+C:\Users\jakub.sokol\OneDrive - Střední škola EDUCHEM, a.s\Dokumenty\Programming\C#\HowManyNumbers\HowManyNumbers\bin\Debug\HowManyNumbers.pdb
+C:\Users\jakub.sokol\OneDrive - Střední škola EDUCHEM, a.s\Dokumenty\Programming\C#\HowManyNumbers\HowManyNumbers\obj\Debug\HowManyNumbers.csproj.AssemblyReference.cache
+C:\Users\jakub.sokol\OneDrive - Střední škola EDUCHEM, a.s\Dokumenty\Programming\C#\HowManyNumbers\HowManyNumbers\obj\Debug\HowManyNumbers.csproj.SuggestedBindingRedirects.cache
+C:\Users\jakub.sokol\OneDrive - Střední škola EDUCHEM, a.s\Dokumenty\Programming\C#\HowManyNumbers\HowManyNumbers\obj\Debug\HowManyNumbers.csproj.CoreCompileInputs.cache
+C:\Users\jakub.sokol\OneDrive - Střední škola EDUCHEM, a.s\Dokumenty\Programming\C#\HowManyNumbers\HowManyNumbers\obj\Debug\HowManyNumbers.exe
+C:\Users\jakub.sokol\OneDrive - Střední škola EDUCHEM, a.s\Dokumenty\Programming\C#\HowManyNumbers\HowManyNumbers\obj\Debug\HowManyNumbers.pdb

@@ -1,0 +1,7 @@
+C:\Users\jakub.sokol\OneDrive - Střední škola EDUCHEM, a.s\Dokumenty\Programming\C#\SquareWithLoops\SquareWithLoops\bin\Debug\SquareWithLoops.exe
+C:\Users\jakub.sokol\OneDrive - Střední škola EDUCHEM, a.s\Dokumenty\Programming\C#\SquareWithLoops\SquareWithLoops\bin\Debug\SquareWithLoops.pdb
+C:\Users\jakub.sokol\OneDrive - Střední škola EDUCHEM, a.s\Dokumenty\Programming\C#\SquareWithLoops\SquareWithLoops\obj\Debug\SquareWithLoops.csproj.AssemblyReference.cache
+C:\Users\jakub.sokol\OneDrive - Střední škola EDUCHEM, a.s\Dokumenty\Programming\C#\SquareWithLoops\SquareWithLoops\obj\Debug\SquareWithLoops.csproj.SuggestedBindingRedirects.cache
+C:\Users\jakub.sokol\OneDrive - Střední škola EDUCHEM, a.s\Dokumenty\Programming\C#\SquareWithLoops\SquareWithLoops\obj\Debug\SquareWithLoops.csproj.CoreCompileInputs.cache
+C:\Users\jakub.sokol\OneDrive - Střední škola EDUCHEM, a.s\Dokumenty\Programming\C#\SquareWithLoops\SquareWithLoops\obj\Debug\SquareWithLoops.exe
+C:\Users\jakub.sokol\OneDrive - Střední škola EDUCHEM, a.s\Dokumenty\Programming\C#\SquareWithLoops\SquareWithLoops\obj\Debug\SquareWithLoops.pdb
